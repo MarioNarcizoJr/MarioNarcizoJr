@@ -8,7 +8,7 @@
 - 🌱 Engatinhando em Java e C
 - 💬 Curso de Programador WEB em Desenvolvimento
 - 📫 Email: mario.narcizojr@outlook.com
-- ⚡ 
+- ⚡ Apaixonado Por Tecnologia, Música e Esportes
 - 💖 Python 💖
 ##
 
