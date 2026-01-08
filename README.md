@@ -1,4 +1,4 @@
-### Olá, Mundo!! Haha. Eu sou Mário Narcizo, Programador Junior e Futuro Engenheiro da Computação. 🚀😄
+### Olá, Mundo!! Haha. Eu sou Mário Narcizo, Profissional da área de TI e Graduando em Engenheiro da Computação. 🚀😄
 
 ##
 
