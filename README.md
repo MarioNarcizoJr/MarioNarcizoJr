@@ -2,17 +2,17 @@
 
 ##
 
-                                                       ⚠️ PERFIL EM CONSTRUÇÃO ⚠️
+                                                       💼 Perfil Profissional 💼
 
 - 🔭 Procurando Aprender e Contribuir em Projetos
-- 🌱 Engatinhando em Java e C
-- 💬 Curso de Programador WEB em Desenvolvimento
+- 💬 Engatinhando em Java e C
+- 🌱 Progamador Junior
 - 📫 Email: mario.narcizojr@outlook.com
 - ⚡ Apaixonado Por Tecnologia, Música e Esportes
 - 💖 Python 💖
 ##
 
-                                                       🤓 LINGUAGENS UTILIZADAS 🤓
+                                                       🤓 Tecnologias Mais Utilizadas 🤓
 
 <div style="display: inline_block"><br>
 
@@ -25,7 +25,7 @@
 
 ##
 
-                                                            📱 REDES SOCIAIS 📱
+                                                            📱 Contato 📱
 
 <div style="display: inline_block"><br>
 
