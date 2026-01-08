@@ -1,12 +1,12 @@
-### Olá, Mundo!! Haha. Eu sou Mário Narcizo, Profissional da área de TI e Graduando em Engenheiro da Computação. 🚀😄
+### Olá, Mundo!! Haha. Eu sou Mário Narcizo. 🚀😄
 
 ##
 
                                                        💼 Perfil Profissional 💼
 
 - 🔭 Procurando Aprender e Contribuir em Projetos
-- 💬 Engatinhando em Java e C
-- 🌱 Progamador Junior
+- 💬 Profissional da Área de TI e Graduando em Engenheiria da Computação
+- 🌱 Progamador Junior e Técnico em Redes e Computadores
 - 📫 Email: mario.narcizojr@outlook.com
 - ⚡ Apaixonado Por Tecnologia, Música e Esportes
 - 💖 Python 💖
