@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=M%C3%A1rio%20Narcizo%20Jr&fontSize=62&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20JS%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Python&descSize=18&descAlignY=56&animation=twinkling&fontColor=ffffff" alt="header"/>
 
 <a href="https://github.com/MarioNarcizoJr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=2B9FFA&center=true&vCenter=true&width=820&lines=Full-Stack+Developer+%7C+.NET+%2B+React;Transformo+ideias+em+aplica%C3%A7%C3%B5es+robustas+%E2%9A%A1;APIs+escal%C3%A1veis%2C+interfaces+modernas%2C+c%C3%B3digo+limpo;Aberto+a+oportunidades+remotas+e+presenciais+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=2B9FFA&center=true&vCenter=true&width=820&lines=Full-Stack+Developer+%7C+JS+%2B+TypeScript+%2B+Python;Transformado+ideias+em+sonhos+%E2%9A%A1;Aberto+a+oportunidades+remotas+ou+híbridas+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
