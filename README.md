@@ -49,9 +49,7 @@ Construo aplicações **do zero ao deploy** — entrego desde a estruturação d
 
 </td>
 <td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MarioNarcizoJr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2b9ffa&icon_color=2b9ffa&card_width=380" alt="stats"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=MarioNarcizoJr&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=2b9ffa&icon_color=2b9ffa" alt="stats" width="100%"/>
 </td>
 </tr>
 </table>
