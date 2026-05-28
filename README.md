@@ -37,11 +37,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Quem sou eu
 
-**Full-Stack Developer** com foco em **.NET + React/Next.js**, estudante de **Engenharia da Computação** na **Universidade Federal de Sergipe (UFS)**.
+**Full-Stack Developer** com foco em **JavaScript + React/Next.js + Python**, estudante de **Engenharia da Computação** na **Universidade Federal de Sergipe (UFS)**.
 
-Construo aplicações **do zero ao deploy** — entrego desde APIs REST robustas com Entity Framework e SQL até interfaces modernas e performáticas com Tailwind. Curto problemas difíceis, código limpo e arquitetura que escala.
-
-> *"Games são minha faísca criativa — eles me ensinaram que cada sistema complexo é só uma pilha de problemas simples bem resolvidos."* 🎮
+Construo aplicações **do zero ao deploy** — entrego desde a estruturação de APIs REST, SQL até interfaces modernas e performáticas com Tailwind.
 
 **O que eu trago:**
 - ✅ Mentalidade end-to-end (do banco ao pixel)
