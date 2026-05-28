@@ -234,8 +234,6 @@ procurando:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarioNarcizoJr&theme=tokyonight" alt="profile summary" width="100%"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioNarcizoJr&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2b9ffa&hide=Jupyter%20Notebook,CMake" alt="top languages"/>
-
 <img height="180em" src="https://streak-stats.demolab.com?user=MarioNarcizoJr&theme=tokyonight&hide_border=true&background=0d1117&ring=2b9ffa&fire=2b9ffa&currStreakLabel=2b9ffa" alt="streak"/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MarioNarcizoJr&bg_color=0d1117&color=2b9ffa&line=2b9ffa&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
