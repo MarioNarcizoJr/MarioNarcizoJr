@@ -188,27 +188,6 @@ Construo aplicações **do zero ao deploy** — entrego desde a estruturação d
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                      PROJETOS EM DESTAQUE                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/W3QKEujs8RTYneOIru/giphy.gif" width="28"> Projetos em Destaque
-
-<div align="center">
-
-<a href="https://github.com/MarioNarcizoJr/Banco_de_Dados_UFS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioNarcizoJr&repo=Banco_de_Dados_UFS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2b9ffa&icon_color=2b9ffa" alt="Banco de Dados UFS"/>
-</a>
-<a href="https://github.com/MarioNarcizoJr/FiosInvisiveis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioNarcizoJr&repo=FiosInvisiveis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2b9ffa&icon_color=2b9ffa" alt="Fios Invisíveis"/>
-</a>
-
-</div>
-
-> 📌 Sugestão: você pode trocar `Banco_de_Dados_UFS` e `FiosInvisiveis` pelos seus repositórios mais fortes (priorize os que tenham README rico, screenshots e demo deployada).
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                      JORNADA & FORMAÇÃO                          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
@@ -253,14 +232,11 @@ procurando:
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarioNarcizoJr&theme=tokyonight" alt="profile summary" width="100%"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioNarcizoJr&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2b9ffa&hide=Jupyter%20Notebook,CMake" alt="top languages"/>
+
 <img height="180em" src="https://streak-stats.demolab.com?user=MarioNarcizoJr&theme=tokyonight&hide_border=true&background=0d1117&ring=2b9ffa&fire=2b9ffa&currStreakLabel=2b9ffa" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MarioNarcizoJr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
-
-<br/><br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MarioNarcizoJr&bg_color=0d1117&color=2b9ffa&line=2b9ffa&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
 
