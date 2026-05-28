@@ -194,7 +194,7 @@ formação:
   universidade: "Universidade Federal de Sergipe (UFS)"
 
 experiência:
-  foco: "Full-Stack (.NET + React/Next.js)"
+  foco: "Desenvolvedor Full-Stack e Automações"
   natureza: "Projetos acadêmicos, pessoais e freelance"
 
 soft_skills:
@@ -213,7 +213,6 @@ estou_aprendendo:
 
 procurando:
   - Vagas de Desenvolvedor Full-Stack Jr/Pleno
-  - Estágio em desenvolvimento
   - Projetos freelance desafiadores
 ```
 
