@@ -48,9 +48,6 @@ Construo aplicações **do zero ao deploy** — entrego desde a estruturação d
 - ✅ Atenção a boas práticas, testes e versionamento
 
 </td>
-<td width="40%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarioNarcizoJr&theme=tokyonight" alt="profile summary" width="100%"/>
-</td>
 </tr>
 </table>
 
