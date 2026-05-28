@@ -62,13 +62,13 @@ Construo aplicações **do zero ao deploy** — entrego desde a estruturação d
 <table align="center">
 <tr>
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=cs" width="48"/><br/>
-<sub><b>C#</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br/>
+<sub><b>JavaScript</b></sub><br/>
 <sub>★★★★★</sub>
 </td>
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br/>
-<sub><b>.NET</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br/>
+<sub><b>HTML5</b></sub><br/>
 <sub>★★★★★</sub>
 </td>
 <td align="center" width="120">
@@ -96,12 +96,12 @@ Construo aplicações **do zero ao deploy** — entrego desde a estruturação d
 <td align="center">
 <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
 <sub><b>Python</b></sub><br/>
-<sub>★★★★☆</sub>
+<sub>★★★★★</sub>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=java" width="48"/><br/>
 <sub><b>Java</b></sub><br/>
-<sub>★★★★☆</sub>
+<sub>★★★☆☆</sub>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
