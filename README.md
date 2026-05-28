@@ -254,37 +254,6 @@ procurando:
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         RECRUITERS                               ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Para Recrutadores
-
-<table>
-<tr>
-<td>
-
-### 🎯 Disponibilidade
-- **Status:** Aberto a oportunidades
-- **Modalidade:** Remoto / Híbrido / Presencial (Sergipe)
-- **Nível:** Júnior → Pleno
-- **Tipo de vaga:** CLT, PJ, Estágio, Freelance
-
-</td>
-<td>
-
-### 💼 Áreas de interesse
-- Desenvolvimento Full-Stack
-- Backend (.NET, Node.js)
-- Frontend (React, Next.js)
-- Banco de dados e APIs
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                           CONTATO                                ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
@@ -312,8 +281,6 @@ procurando:
 
 <br/><br/>
 
-<sub>📩 Respondo em até **24h** úteis · 🌍 Disponível para entrevistas em qualquer fuso · ⏱️ Pronto para começar imediatamente</sub>
-
 </div>
 
 <br/>
@@ -333,5 +300,5 @@ procurando:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&text=Obrigado%20pela%20visita!&fontSize=22&fontColor=ffffff&fontAlignY=70"/>
 
 <div align="center">
-  <sub>⭐ Se gostou, deixe uma estrela em algum repo · feito com 💙 por <a href="https://github.com/MarioNarcizoJr">Mário Narcizo Jr</a></sub>
+  <sub>. Mário Narcizo Jr .</sub>
 </div>
