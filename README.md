@@ -7,15 +7,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=M%C3%A1rio%20Narcizo%20Jr&fontSize=62&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20JS%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Python&descSize=18&descAlignY=56&animation=twinkling&fontColor=ffffff" alt="header"/>
 
 <a href="https://github.com/MarioNarcizoJr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=2B9FFA&center=true&vCenter=true&width=820&lines=Full-Stack+Developer+%7C+JS+%2B+TypeScript+%2B+Python;Transformando+Ideias+Em+Sonhos;Aberto+a+Oportunidades+Remotas+ou+H%C3%ADbridas" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=2B9FFA&center=true&vCenter=true&width=820&lines=Full-Stack+Developer+%7C+JS+%2B+TypeScript+%2B+Python;Transformando+Ideias+Em+Sonhos;Loading+Next+Adventures" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <!-- BADGES DE STATUS -->
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=0d1117&logo=googlemeet&logoColor=22c55e" alt="open to work"/>
+<img src="https://img.shields.io/badge/Status-Online-22c55e?style=for-the-badge&labelColor=0d1117&logo=googlemeet&logoColor=22c55e" alt="online"/>
 <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Sergipe%2C%20BR-2b9ffa?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=2b9ffa" alt="location"/>
-<img src="https://img.shields.io/badge/Modalidade-Remoto%20%7C%20H%C3%ADbrido-8b5cf6?style=for-the-badge&labelColor=0d1117&logo=zoom&logoColor=8b5cf6" alt="modality"/>
 <img src="https://img.shields.io/badge/Idiomas-PT%20%7C%20EN-f59e0b?style=for-the-badge&labelColor=0d1117&logo=googletranslate&logoColor=f59e0b" alt="languages"/>
 
 <br/>
